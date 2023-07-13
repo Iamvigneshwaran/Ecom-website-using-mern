@@ -1,0 +1,64 @@
+[
+  {
+    "name": "iPhone 12",
+    "price": 999,
+    "description": "The latest iPhone model with advanced features.",
+    "ratings": "4.5",
+    "images": [
+      {
+        "image": "iphone12_image1.jpg"
+      },
+      {
+        "image": "iphone12_image2.jpg"
+      }
+    ],
+    "category": "Mobile phones",
+    "seller": "Apple",
+    "stock": 50,
+    "numOfReviews": 10,
+    "reviews": [
+      {
+        "name": "John",
+        "rating": "4",
+        "Comment": "Great phone overall."
+      },
+      {
+        "name": "Emily",
+        "rating": "5",
+        "Comment": "Best smartphone I've ever had!"
+      }
+    ],
+    "createdAt": "2022-05-20T10:00:00.000Z"
+  },
+  {
+    "name": "Samsung Galaxy Watch",
+    "price": 249,
+    "description": "A smartwatch with fitness tracking and various features.",
+    "ratings": "4.2",
+    "images": [
+      {
+        "image": "galaxywatch_image1.jpg"
+      },
+      {
+        "image": "galaxywatch_image2.jpg"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "Samsung",
+    "stock": 20,
+    "numOfReviews": 5,
+    "reviews": [
+      {
+        "name": "Lisa",
+        "rating": "4",
+        "Comment": "Love the design and functionality."
+      },
+      {
+        "name": "Michael",
+        "rating": "3",
+        "Comment": "Decent smartwatch, but battery life could be better."
+      }
+    ],
+    "createdAt": "2022-08-10T14:30:00.000Z"
+  }
+]
